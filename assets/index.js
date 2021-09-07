@@ -1,0 +1,32 @@
+export const icons = {
+  musicIcon: require("./icons/music-icon.png"),
+  homeIcon: require("./icons/home-icon.png"),
+  videoIcon: require("./icons/video-icon.png"),
+  archiveIcon: require("./icons/archive-icon.png"),
+  imageIcon: require("./icons/image-icon.png"),
+  threeDots: require("./icons/three-dots.png"),
+  editPenIcon: require("./icons/edit-pen-icon.png"),
+  caretRightIcon: require("./icons/caret-right-icon.png"),
+  uploadIcon: require("./icons/upload-icon.png"),
+  cameraIcon: require("./icons/camera-icon.png"),
+  closeIcon: require("./icons/close-icon.png"),
+  scanIcon: require("./icons/scan-icon.png"),
+  arrowUpIcon: require("./icons/arrow-up.png"),
+  goHomeIcon: require("./icons/go-home.png"),
+  homeSelectedIcon: require("./icons/home-icon-selected.png"),
+  homeIcon: require("./icons/home-icon.png"),
+  localstorageSelectedIcon: require("./icons/localstorage-selected.png"),
+  localstorageIcon: require("./icons/localstorage.png"),
+  plusIcon: require("./icons/plus.png"),
+  notificationSelectedIcon: require("./icons/notification-selected.png"),
+  notificationIcon: require("./icons/notification.png"),
+  profileSelectedIcon: require("./icons/profile-selected.png"),
+  profileIcon: require("./icons/profile.png"),
+};
+
+export const images = {
+  notificationBackground: require("./images/notification.png"),
+  onBoardingImage: require("./images/Onboarding.png"),
+  wave1Image: require("./images/rsz_wave1.png"),
+  wave2Image: require("./images/rsz_wave2.png"),
+};
